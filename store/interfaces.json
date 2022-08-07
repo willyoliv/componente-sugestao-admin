@@ -1,5 +1,5 @@
 {
-  "combos-personalizados": {
-    "component": "CombosPersonalizados"
+  "buy-together": {
+    "component": "BuyTogether"
   }
 }
